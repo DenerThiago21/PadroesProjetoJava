@@ -1,3 +1,4 @@
+<h1> Strategy </h1>
 <p>
     O Strategy é um padrão de projeto comportamental que permite
     que seja definida uma familia de algoritmos, coloque-os em classes separadas
