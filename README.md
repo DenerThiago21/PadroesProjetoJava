@@ -9,3 +9,6 @@ Para entendimento do padrão de projeto Strategy, clique [aqui](https://github.c
 
 ## Singleton
 Para entendimento do padrão de projeto Singleton, clique [aqui](https://github.com/DenerThiago21/PadroesProjetoJava/blob/main/Design_Paterrns/src/singleton/Description.md).
+
+
+[https://refactoring.guru/pt-br/design-patterns/java]
